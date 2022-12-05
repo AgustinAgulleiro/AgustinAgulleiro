@@ -6,7 +6,7 @@
 
 <p align="justify">Comencé este año con un curso de SQL en la creación de una Base de datos, con uso de funciones SQL (DDL, DML DCL, Function, Stored Procedures y Triggers). Con el tiempo descubrí que esto era lo que me gustaba continuar expandiendo mis conocimientos hacia el lado de la programación BackEnd y Data Science/Data Analytics.</p>
 
-<p align="justify">Mi objetivo con la codificación es ayudar a los demás. Disfruto poder crear algo que otras personas puedan querer usar para hacerles la vida mas fácil. Tomo bien las críticas y utilizo las sugerencias para mejorar el producto. Siempre es mi prioridad, el compañerismo y la trabajo en grupo son cosas que siempre remarcaré como importantes.</p>
+<p align="justify">Mi objetivo con la codificación es ayudar a los demás. Disfruto poder crear algo que otras personas puedan querer usar para hacerles la vida mas fácil. Tomo bien las críticas y utilizo las sugerencias para mejorar el producto. Siempre es mi prioridad, el compañerismo y la trabajo en grupo son cosas que siempre consideraré como importantes.</p>
 
 <p align="justify"></p>
 
