@@ -45,33 +45,6 @@ También diseño tableros ejecutivos en **Tableau** y **Power BI** para acelerar
 
 ---
 
-## 🚀 Proyectos destacados (para ver código)
-> 👇 Dejo estructuras sugeridas. Creá repos con estos nombres o cambia los enlaces por los reales.
-
-- **Pipeline ETL en Databricks (PySpark) con Delta Lake**  
-  _Ingesta → Transformación → Modelo curado + Métricas de calidad_  
-  **Stack:** PySpark, Delta Lake, Auto Loader (si aplica), SQL, Databricks Jobs  
-  **Repo:** `TODO` · **Demo/Notebook:** `TODO`
-
-- **Optimización de consultas y jobs en Spark**  
-  _Partitioning, caching, AQE y best practices_  
-  **Stack:** PySpark/Spark SQL, Databricks  
-  **Repo:** `TODO`
-
-- **Tablero Ejecutivo en Tableau / Power BI**  
-  _KPIs operativos/financieros, data model, medidas DAX_  
-  **Stack:** Tableau / Power BI, modelo semántico  
-  **Repo (capturas / pbix / twbx):** `TODO`
-
-- **Automatización de ingestas con AWS Lambda**  
-  _Eventos → Validaciones → Push a Lake_  
-  **Stack:** AWS Lambda (Python), S3, (opcional: Step Functions)  
-  **Repo:** `TODO`
-
-> Sugerencia: agregá un `README` en cada repo con: objetivo, arquitectura, dataset (si es público), instrucciones de ejecución y resultados.
-
----
-
 ## 💼 Experiencia (resumen)
 **Natura Cosméticos — Data Engineer (Ssr)** · *jul. 2024 – Actualidad*  
 - ETL en **Databricks/PySpark**; migración de **SQL → Spark** con mejoras de performance.  
