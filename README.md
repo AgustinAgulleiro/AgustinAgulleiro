@@ -72,14 +72,6 @@ También diseño tableros ejecutivos en **Tableau** y **Power BI** para acelerar
 
 ---
 
-## 📈 Métricas (opcionales)
-<!-- Si querés mostrar stats, descomentá las líneas de abajo -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinAgulleiro&layout=compact&theme=default)
-![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgustinAgulleiro&show_icons=true&theme=default)
-
----
-
 ## 🤝 Contacto
 - ✉️ **Email:** [agustin_agulleiro@outlook.com](mailto:agustin_agulleiro@outlook.com)  
 - 💼 **LinkedIn:** [agustin-agulleiro](https://www.linkedin.com/in/agustin-agulleiro)  
